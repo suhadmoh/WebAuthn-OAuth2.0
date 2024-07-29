@@ -1,2 +1,2 @@
 # WebAuthn-OAuth2.0
-WebAuthn-OAuth2.0
+This project is crafted to enhance your practical expertise in contemporary authentication technologies with a focus on two primary objectives. First, it involves implementing Sign-In with Google using OAuth2/OpenID Connect. This feature aims to provide a secure and smooth authentication experience by enabling users to log in through their Google accounts. The second objective is the integration of WebAuthn for passwordless authentication, which will further advance your skills in deploying cutting-edge authentication methods. Together, these components will deepen your understanding and application of modern security practices in real-world scenarios.
